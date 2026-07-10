@@ -1,0 +1,6 @@
+- helped with feature scaling by using min-max scaling function to map the datasets timeline
+- Feature clean up : automated column key normalization to snake_case, made an automated text parsing routine to convert character literals to floats and remove them from currency fields.
+- Wrote individual reflection journal
+- Participated in code review
+- Helped with documentations
+- Participated and contributed in active discussion
