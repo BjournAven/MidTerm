@@ -37,3 +37,20 @@
 * **Feature Engineering** Pruned pointless zero value pricing rows and made a feature profile `fee_to_price_ratio` to point out crosras column pricing interactions
 
 
+### Victoria Simmons - Contributions
+- helped with feature scaling by using min-max scaling function to map the datasets timeline
+- Feature clean up : automated column key normalization to snake_case, made an automated text parsing routine to convert character literals to floats and remove them from currency fields.
+- Wrote individual reflection journal
+- Participated in code review
+- Helped with documentations
+- Participated and contributed in active discussion
+
+
+### Mary Balemba and Raymond Hayes- Contributions
+- Reviewed the team's preprocessing work to ensure it met project requirements.
+- Verified the Airbnb dataset was appropriate and contained enough records.
+- Checked that missing values, duplicates, and invalid records were handled correctly.
+- Confirmed categorical features were encoded and scaling/normalization was applied where appropriate.
+- Reviewed the engineered feature to ensure it was reasonable.
+- Verified the dataset was split into 70% training and 30% testing using Python.
+- Reviewed the notebook and documentation for clarity and completeness of the preprocessing steps and project objectives.
